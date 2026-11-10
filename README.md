@@ -2,6 +2,13 @@
 
 Next.js application for **Researcify Academic Studio — Where Ideas Become Impact.**
 
+## Live links
+
+- **Frontend:** https://researcify-academic-studio.vercel.app
+- **Backend base:** https://researcify-academic-studio.vercel.app/api
+- **Inquiry API:** https://researcify-academic-studio.vercel.app/api/inquiries
+- **GitHub:** https://github.com/sifat-oss/researcify-academic-studio
+
 ## Backend included
 
 - Supabase server and admin clients with cookie-based session refresh.
